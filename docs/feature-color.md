@@ -1,1 +1,1 @@
-"les couleurs seront vraiment ici"
+"les couleurs seront ici"
