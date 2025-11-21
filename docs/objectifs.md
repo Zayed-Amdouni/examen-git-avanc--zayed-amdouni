@@ -1,1 +1,1 @@
-"ce dépôt existe pour évaluée mes compétences en git avancé."
+"je suis actuellement à l'étape 3 de l'éxercice 3."
