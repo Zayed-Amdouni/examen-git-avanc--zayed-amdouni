@@ -1,1 +1,1 @@
-"cette banane va être utilisé pour vérifier mon travail et vérifier que j'aime bien les bananes"
+"ce dépôt être utilisé pour verfifié mon travail et si j'ai acquis les bases de git"
